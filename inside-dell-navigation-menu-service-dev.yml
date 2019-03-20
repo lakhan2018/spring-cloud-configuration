@@ -1,7 +1,7 @@
 ---
 inside-dell-navigation-menu-service:
   news:
-  - tagName: Headline News test
+  - tagName: Headline News dev
     url: test.com
     target: blank
   - tagName: News Inside Dell
