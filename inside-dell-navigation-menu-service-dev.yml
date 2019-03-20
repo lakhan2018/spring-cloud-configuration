@@ -1,0 +1,556 @@
+---
+inside-dell-navigation-menu-service:
+  news:
+  - tagName: Headline News
+    url: test.com
+    target: blank
+  - tagName: News Inside Dell
+    url: test.com
+    target: blank
+  - tagName: One Dell Way
+    url: test.com
+    target: blank
+  - tagName: Dell Quarterly Review
+    url: test.com
+    target: blank
+  - tagName: Dell Technologies Story
+    url: test.com
+    target: blank
+  myCommunities:
+  - tagName: Dashboard
+    url: test.com
+    target: blank
+  - tagName: My Profile
+    url: test.com
+    target: blank
+  - tagName: Activity
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: My Activity tested
+      url: test.com
+      target: blank
+    - tagName: My View tested
+      url: test.com
+      target: blank
+    - tagName: My Connections tested
+      url: test.com
+      target: blank
+  - tagName: Browse
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Org Chart
+      url: test.com
+      target: blank
+    - tagName: All People
+      url: test.com
+      target: blank
+    - tagName: All Communities
+      url: test.com
+      target: blank
+    - tagName: All Groups
+      url: test.com
+      target: blank
+    - tagName: My Places
+      url: test.com
+      target: blank
+    - tagName: Recommended
+      url: test.com
+      target: blank
+  - tagName: Content
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Recently Added
+      url: test.com
+      target: blank
+    - tagName: Recently Viewed
+      url: test.com
+      target: blank
+    - tagName: Following
+      url: test.com
+      target: blank
+    - tagName: My Library
+      url: test.com
+      target: blank
+    - tagName: Recommended
+      url: test.com
+      target: blank
+  - tagName: Help
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Getting Started
+      url: test.com
+      target: blank
+    - tagName: Help & Enablement Center
+      url: test.com
+      target: blank
+    - tagName: Request a Community
+      url: test.com
+      target: blank
+    - tagName: New Feature Request
+      url: test.com
+      target: blank
+    - tagName: Log an Issue with IT
+      url: test.com
+      target: blank
+    - tagName: My Preferences
+      url: test.com
+      target: blank
+    - tagName: Navigation Change Request test
+      url: test.com
+      target: blank
+  myHr:
+  - tagName: My HR Portal
+    url: test.com
+    target: blank
+  - tagName: People Philosophy
+    url: test.com
+    target: blank
+  - tagName: My HR Profile
+    url: test.com
+    target: blank
+  - tagName: Access Tools
+    url: test.com
+    target: blank
+  - tagName: Leader Resources
+    url: test.com
+    target: blank
+  myIt:
+  - tagName: My IT Portal
+    url: test.com
+    target: blank
+  - tagName: Chat with IT
+    url: test.com
+    target: blank
+  - tagName: Order Something
+    url: test.com
+    target: blank
+  - tagName: Get Self-Help
+    url: test.com
+    target: blank
+  - tagName: Create a Ticket
+    url: test.com
+    target: blank
+  learning:
+  - tagName: The Learning Studio
+    url: test.com
+    target: blank
+  - tagName: Dell Technologies Sales University
+    url: test.com
+    target: blank
+  - tagName: Dell EMC Education & Training
+    url: test.com
+    target: blank
+  - tagName: Educate Dell
+    url: test.com
+    target: blank
+  - tagName: Product & Operations Academies
+    url: test.com
+    target: blank
+  organizations:
+  - tagName: Org Chart
+    url: test.com
+    target: blank
+  - tagName: Marketing
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Global Marketing
+      url: test.com
+      target: blank
+    - tagName: Communications
+      url: test.com
+      target: blank
+    - tagName: Digital Marketing
+      url: test.com
+      target: blank
+    - tagName: Events, Brand and Creative
+      url: test.com
+      target: blank
+    - tagName: Global Field and Partner Marketing
+      url: test.com
+      target: blank
+    - tagName: Global ISG Campaign and Program
+      url: test.com
+      target: blank
+    - tagName: Strategy & Operations
+      url: test.com
+      target: blank
+    - tagName: Corporate Messaging
+      url: test.com
+      target: blank
+    - tagName: Spokesperson Central
+      url: test.com
+      target: blank
+    - tagName: Marketing Talent Development
+      url: test.com
+      target: blank
+  - tagName: Sales Operations
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Global Sales Community
+      url: test.com
+      target: blank
+    - tagName: Global Business Operations
+      url: test.com
+      target: blank
+    - tagName: Global Sales Compensation
+      url: test.com
+      target: blank
+  - tagName: Client Solutions - Sales
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Sales Communications
+      url: test.com
+      target: blank
+    - tagName: North America Commercial Sales
+      url: test.com
+      target: blank
+  - tagName: Global Enterprise Sales
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: NA Enteprise Sales
+      url: test.com
+      target: blank
+    - tagName: EMEA Sales Community
+      url: test.com
+      target: blank
+    - tagName: APJ Sales Community
+      url: test.com
+      target: blank
+    - tagName: Dell EMC Services
+      url: test.com
+      target: blank
+    - tagName: Presales Channel
+      url: test.com
+      target: blank
+    - tagName: OEM Solutions
+      url: test.com
+      target: blank
+    - tagName: Dell EMC Consulting Services
+      url: test.com
+      target: blank
+    - tagName: RFP Proposal Express
+      url: test.com
+      target: blank
+  - tagName: Services
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Services & Digital Home
+      url: test.com
+      target: blank
+    - tagName: Consulting
+      url: test.com
+      target: blank
+    - tagName: Deployment
+      url: test.com
+      target: blank
+    - tagName: Education
+      url: test.com
+      target: blank
+    - tagName: Managed Services
+      url: test.com
+      target: blank
+    - tagName: Support
+      url: test.com
+      target: blank
+  - tagName: Chief Customer Office
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Chief Customer Office
+      url: test.com
+      target: blank
+    - tagName: Social Intelligence Center
+      url: test.com
+      target: blank
+    - tagName: Net Promoter Score (NPS) Program
+      url: test.com
+      target: blank
+    - tagName: Executive Sponsor Program
+      url: test.com
+      target: blank
+    - tagName: CXO Cross-Functional Engagement Committee
+      url: test.com
+      target: blank
+    - tagName: Global Diversity & Inclusion
+      url: test.com
+      target: blank
+    - tagName: Entrepreneurship
+      url: test.com
+      target: blank
+    - tagName: Information Quality Governance Office
+      url: test.com
+      target: blank
+    - tagName: Legacy of Good
+      url: test.com
+      target: blank
+    - tagName: We've Got This
+      url: test.com
+      target: blank
+  Offerings:
+  - tagName: Products
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Converged Infrastructure
+      url: test.com
+      target: blank
+    - tagName: Data Protection
+      url: test.com
+      target: blank
+    - tagName: Desktops/All in Ones
+      url: test.com
+      target: blank
+    - tagName: Electronics & Accessories
+      url: test.com
+      target: blank
+    - tagName: Enterprise Infrastucture
+      url: test.com
+      target: blank
+    - tagName: Gateways and Embedded Computing
+      url: test.com
+      target: blank
+    - tagName: Laptops
+      url: test.com
+      target: blank
+    - tagName: Networking
+      url: test.com
+      target: blank
+    - tagName: Ready Solutions
+      url: test.com
+      target: blank
+    - tagName: RSA
+      url: test.com
+      target: blank
+    - tagName: Servers
+      url: test.com
+      target: blank
+    - tagName: Software
+      url: test.com
+      target: blank
+    - tagName: Storage
+      url: test.com
+      target: blank
+    - tagName: Thin Clients
+      url: test.com
+      target: blank
+    - tagName: Virtustream
+      url: test.com
+      target: blank
+    - tagName: Workstations
+      url: test.com
+      target: blank
+  - tagName: Solutions
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Business Solutions
+      url: test.com
+      target: blank
+    - tagName: Financing and Payment
+      url: test.com
+      target: blank
+    - tagName: Industry Solutions
+      url: test.com
+      target: blank
+    - tagName: Infrastructure Solutions
+      url: test.com
+      target: blank
+  - tagName: Services
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Consulting
+      url: test.com
+      target: blank
+    - tagName: Deployment
+      url: test.com
+      target: blank
+    - tagName: Education
+      url: test.com
+      target: blank
+    - tagName: Managed Services
+      url: test.com
+      target: blank
+    - tagName: Support
+      url: test.com
+      target: blank
+  - tagName: Sales Knowledge Center
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Sales Knowledge Center
+      url: test.com
+      target: blank
+  toolsAndResourcse:
+  - tagName: Org Chart (Workday)
+    url: test.com
+    target: blank
+  - tagName: Administrative
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Copy / Printing Service
+      url: test.com
+      target: blank
+    - tagName: Global Translation Services
+      url: test.com
+      target: blank
+    - tagName: GlobeSmart
+      url: test.com
+      target: blank
+    - tagName: Staples - Office Supplies
+      url: test.com
+      target: blank
+  - tagName: Engineering
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Engineering Service Management
+      url: test.com
+      target: blank
+  - tagName: Security
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Security and Resiliency Office
+      url: test.com
+      target: blank
+    - tagName: Product & Application Security
+      url: test.com
+      target: blank
+    - tagName: Report Suspicious Emails
+      url: test.com
+      target: blank
+    - tagName: Security Awareness and Training
+      url: test.com
+      target: blank
+    - tagName: Secure Workplace
+      url: test.com
+      target: blank
+  - tagName: Marketing
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Digital Experience Program
+      url: test.com
+      target: blank
+    - tagName: Dell Digital Asset Management (DAM)
+      url: test.com
+      target: blank
+    - tagName: Brand Templates & Guidelines
+      url: test.com
+      target: blank
+    - tagName: Corporate Events
+      url: test.com
+      target: blank
+    - tagName: My Places
+      url: test.com
+      target: blank
+    - tagName: Presales Channel
+      url: test.com
+      target: blank
+    - tagName: Marketing Playbooks
+      url: test.com
+      target: blank
+    - tagName: Messaging
+      url: test.com
+      target: blank
+  - tagName: Sales
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Sales Planning
+      url: test.com
+      target: blank
+    - tagName: KLUE - Competititve Intelligence
+      url: test.com
+      target: blank
+    - tagName: Customer Reference Group
+      url: test.com
+      target: blank
+    - tagName: Customer Reporting Solutions (FIRST)
+      url: test.com
+      target: blank
+    - tagName: Customer Solution Centers
+      url: test.com
+      target: blank
+    - tagName: Demo Center
+      url: test.com
+      target: blank
+    - tagName: Dell Financial Services (DFS)
+      url: test.com
+      target: blank
+    - tagName: Executive Briefing Center
+      url: test.com
+      target: blank
+    - tagName: Global Customer Programs
+      url: test.com
+      target: blank
+    - tagName: Help a Rep
+      url: test.com
+      target: blank
+    - tagName: MAP Sales Portal (EMEA Sales)
+      url: test.com
+      target: blank
+    - tagName: North America & G500 Sales Central
+      url: test.com
+      target: blank
+    - tagName: NEW! Order Management Systems Portal
+      url: test.com
+      target: blank
+    - tagName: Purchase ID Lookup Tool
+      url: test.com
+      target: blank
+    - tagName: SmartPrice
+      url: test.com
+      target: blank
+    - tagName: Software & Peripherals Harmony Tool
+      url: test.com
+      target: blank
+    - tagName: Sales Portal and Knowledge Center
+      url: test.com
+      target: blank
+    - tagName: Presales Shared Services
+      url: test.com
+      target: blank
+    - tagName: RMA Process
+      url: test.com
+      target: blank
+    - tagName: Sales News
+      url: test.com
+      target: blank
+  - tagName: Travel & Expense
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Concur
+      url: test.com
+      target: blank
+    - tagName: Global Travel & Expense
+      url: test.com
+      target: blank
+  - tagName: Dell Culture
+    url: test.com
+    target: blank
+    leveThreeItems:
+    - tagName: Inspire Recognitions
+      url: test.com
+      target: blank
+    - tagName: Help a Customer
+      url: test.com
+      target: blank
+    - tagName: Legacy of Good
+      url: test.com
+      target: blank
+    - tagName: Talent & Culture
+      url: test.com
+      target: blank
