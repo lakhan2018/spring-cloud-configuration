@@ -1,556 +1,1266 @@
+
 ---
 inside-dell-navigation-menu-service:
+  levelOneItems:
+  - title: News
+    url: 
+    target: 
+    id: globalnav-overlay-menu-tab-news
+    dataPanelTarget: myNews
+    description: 
+  - title: My Communities
+    url: 
+    target: 
+    id: globalnav-overlay-menu-tab-mycommunities
+    dataPanelTarget: myCommunities
+    description: 
+  - title: My HR
+    url: 
+    target: 
+    id: globalnav-overlay-menu-tab-myHR
+    dataPanelTarget: myHR
+    description: 
+  - title: My IT
+    url: 
+    target: 
+    id: globalnav-overlay-menu-tab-myIT
+    dataPanelTarget: myIT
+    description: 
+  - title: Learning
+    url: 
+    target: 
+    id: globalnav-overlay-menu-tab-learning
+    dataPanelTarget: learning
+    description: 
+  - title: Organizations
+    url: 
+    target: 
+    id: globalnav-overlay-menu-tab-org
+    dataPanelTarget: organization
+    description: 
+  - title: Offerings
+    url: 
+    target: 
+    id: globalnav-overlay-menu-tab-delloffering
+    dataPanelTarget: delloffering
+    description: 
+  - title: Tools & Resources
+    url: 
+    target: 
+    id: globalnav-overlay-menu-tab-tools
+    dataPanelTarget: toolsresource
+    description: 
   news:
-  - tagName: Headline News test
-    url: test.com
-    target: blank
-  - tagName: News Inside Dell
-    url: test.com
-    target: blank
-  - tagName: One Dell Way
-    url: test.com
-    target: blank
-  - tagName: Dell Quarterly Review
-    url: test.com
-    target: blank
-  - tagName: Dell Technologies Story
-    url: test.com
-    target: blank
+  - title: Headline News
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
+  - title: News Inside Dell
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
+  - title: One Dell Way
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
+  - title: Dell Quarterly Review
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
+  - title: Dell Technologies Story
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
   myCommunities:
-  - tagName: Dashboard
-    url: test.com
-    target: blank
-  - tagName: My Profile
-    url: test.com
-    target: blank
-  - tagName: Activity
-    url: test.com
-    target: blank
-    leveThreeItems:
-    - tagName: My Activity tested
-      url: test.com
-      target: blank
-    - tagName: My View tested
-      url: test.com
-      target: blank
-    - tagName: My Connections tested
-      url: test.com
-      target: blank
-  - tagName: Browse
-    url: test.com
-    target: blank
-    leveThreeItems:
-    - tagName: Org Chart
-      url: test.com
-      target: blank
-    - tagName: All People
-      url: test.com
-      target: blank
-    - tagName: All Communities
-      url: test.com
-      target: blank
-    - tagName: All Groups
-      url: test.com
-      target: blank
-    - tagName: My Places
-      url: test.com
-      target: blank
-    - tagName: Recommended
-      url: test.com
-      target: blank
-  - tagName: Content
-    url: test.com
-    target: blank
-    leveThreeItems:
-    - tagName: Recently Added
-      url: test.com
-      target: blank
-    - tagName: Recently Viewed
-      url: test.com
-      target: blank
-    - tagName: Following
-      url: test.com
-      target: blank
-    - tagName: My Library
-      url: test.com
-      target: blank
-    - tagName: Recommended
-      url: test.com
-      target: blank
-  - tagName: Help
-    url: test.com
-    target: blank
-    leveThreeItems:
-    - tagName: Getting Started
-      url: test.com
-      target: blank
-    - tagName: Help & Enablement Center
-      url: test.com
-      target: blank
-    - tagName: Request a Community
-      url: test.com
-      target: blank
-    - tagName: New Feature Request
-      url: test.com
-      target: blank
-    - tagName: Log an Issue with IT
-      url: test.com
-      target: blank
-    - tagName: My Preferences
-      url: test.com
-      target: blank
-    - tagName: Navigation Change Request test
-      url: test.com
-      target: blank
+  - title: Dashboard111
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Access the sites or content you own and the people you follow My Communities.
+  - title: My Profile
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Access your profile on My Communities to update your avatar and information. 
+  - title: Getting Started111
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Visit the Help and Enablement Center to learn how to use Inside Dell Technologies.
+  - title: Rquest a Community
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Submit a request to own or redesign a site on My Communities
+  - title: Change Request
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: Request to change a url, move a site, or add a link to the navigation.
   myHr:
-  - tagName: My HR Portal
-    url: test.com
-    target: blank
-  - tagName: People Philosophy
-    url: test.com
-    target: blank
-  - tagName: My HR Profile
-    url: test.com
-    target: blank
-  - tagName: Access Tools
-    url: test.com
-    target: blank
-  - tagName: Leader Resources
-    url: test.com
-    target: blank
+  - title: My HR Portal
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Your access to all HR resources, tools, solutions and services.
+  - title: People Philosophy
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Learn how Dell can help you fulfill your potential and then, expand it.
+  - title: My HR Profile
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: View and update your personal and work information.
+  - title: Access Tools
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Get quick access to the tool you are looking for.
+  - title: Leader Resources
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Access to the HR tools and resources that will help you manage your team
   myIt:
-  - tagName: My IT Portal
-    url: test.com
-    target: blank
-  - tagName: Chat with IT
-    url: test.com
-    target: blank
-  - tagName: Order Something
-    url: test.com
-    target: blank
-  - tagName: Get Self-Help
-    url: test.com
-    target: blank
-  - tagName: Create a Ticket
-    url: test.com
-    target: blank
+  - title: My IT Portal
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: The home for IT and resources for team members
+  - title: Chat with IT
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Got a quick question? Get a quick answer.
+  - title: Order Something
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Browse the catalog for services and items you need.
+  - title: Get Self-Help
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Browse and search for helpful knowledge articles.
+  - title: Create a Ticket
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Contact support to make a request, or report a problem.
   learning:
-  - tagName: The Learning Studio
-    url: test.com
-    target: blank
-  - tagName: Dell Technologies Sales University
-    url: test.com
-    target: blank
-  - tagName: Dell EMC Education & Training
-    url: test.com
-    target: blank
-  - tagName: Educate Dell
-    url: test.com
-    target: blank
-  - tagName: Product & Operations Academies
-    url: test.com
-    target: blank
+  - title: The Learning Studio
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Personalized and social learning experience that connects you to resource you can use to be successful.
+  - title: Dell Technologies Sales University
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: A flexible sales learning experience with rich, dynamic content and personalized learning plan to help you grow your career
+  - title: Dell EMC Education & Training
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Dell EMC role-based training hub designed to accelerate your technical & professional learning experience.
+  - title: Educate Dell
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: A comprehensive product & training resources tool.
+  - title: Product & Operations Academies
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: myNews
+    description: Leader defined individualized learning plans that enable strategic business capabilities.
   organizations:
-  - tagName: Org Chart
-    url: test.com
-    target: blank
-  - tagName: Marketing
-    url: test.com
-    target: blank
+  - title: Org Chart-test
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: 
+    description: 
+  - title: Marketing
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-marketing
+    description: 
     leveThreeItems:
-    - tagName: Global Marketing
-      url: test.com
-      target: blank
-    - tagName: Communications
-      url: test.com
-      target: blank
-    - tagName: Digital Marketing
-      url: test.com
-      target: blank
-    - tagName: Events, Brand and Creative
-      url: test.com
-      target: blank
-    - tagName: Global Field and Partner Marketing
-      url: test.com
-      target: blank
-    - tagName: Global ISG Campaign and Program
-      url: test.com
-      target: blank
-    - tagName: Strategy & Operations
-      url: test.com
-      target: blank
-    - tagName: Corporate Messaging
-      url: test.com
-      target: blank
-    - tagName: Spokesperson Central
-      url: test.com
-      target: blank
-    - tagName: Marketing Talent Development
-      url: test.com
-      target: blank
-  - tagName: Sales Operations
-    url: test.com
-    target: blank
+    - title: Global Marketing
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Communications
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Digital Marketing
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Events, Brand and Creative
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Field and Partner Marketing
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global ISG Campaign and Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Strategy & Operations
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Corporate Messaging
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Spokesperson Central
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Marketing Talent Development
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Sales Operations
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-sales-op
+    description: 
     leveThreeItems:
-    - tagName: Global Sales Community
-      url: test.com
-      target: blank
-    - tagName: Global Business Operations
-      url: test.com
-      target: blank
-    - tagName: Global Sales Compensation
-      url: test.com
-      target: blank
-  - tagName: Client Solutions - Sales
-    url: test.com
-    target: blank
+    - title: Global Sales Community
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Business Operations
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Sales Compensation
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Client Solutions - Sales
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-client-sol
+    description: 
     leveThreeItems:
-    - tagName: Sales Communications
-      url: test.com
-      target: blank
-    - tagName: North America Commercial Sales
-      url: test.com
-      target: blank
-  - tagName: Global Enterprise Sales
-    url: test.com
-    target: blank
+    - title: Sales Communications
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: North America Commercial Sales
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Global Enterprise Sales
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-global-enterprise
+    description: 
     leveThreeItems:
-    - tagName: NA Enteprise Sales
-      url: test.com
-      target: blank
-    - tagName: EMEA Sales Community
-      url: test.com
-      target: blank
-    - tagName: APJ Sales Community
-      url: test.com
-      target: blank
-    - tagName: Dell EMC Services
-      url: test.com
-      target: blank
-    - tagName: Presales Channel
-      url: test.com
-      target: blank
-    - tagName: OEM Solutions
-      url: test.com
-      target: blank
-    - tagName: Dell EMC Consulting Services
-      url: test.com
-      target: blank
-    - tagName: RFP Proposal Express
-      url: test.com
-      target: blank
-  - tagName: Services
-    url: test.com
-    target: blank
+    - title: NA Enteprise Sales
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: EMEA Sales Community
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: APJ Sales Community
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Dell EMC Services
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Presales Channel
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: OEM Solutions
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Dell EMC Consulting Services
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: RFP Proposal Express
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Services
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-services
+    description: org-services
     leveThreeItems:
-    - tagName: Services & Digital Home
-      url: test.com
-      target: blank
-    - tagName: Consulting
-      url: test.com
-      target: blank
-    - tagName: Deployment
-      url: test.com
-      target: blank
-    - tagName: Education
-      url: test.com
-      target: blank
-    - tagName: Managed Services
-      url: test.com
-      target: blank
-    - tagName: Support
-      url: test.com
-      target: blank
-  - tagName: Chief Customer Office
-    url: test.com
-    target: blank
+    - title: Services & Digital Home
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Consulting
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Deployment
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Education
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Managed Services
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Support
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Chief Customer Office
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-chief-customer
+    description: 
     leveThreeItems:
-    - tagName: Chief Customer Office
-      url: test.com
-      target: blank
-    - tagName: Social Intelligence Center
-      url: test.com
-      target: blank
-    - tagName: Net Promoter Score (NPS) Program
-      url: test.com
-      target: blank
-    - tagName: Executive Sponsor Program
-      url: test.com
-      target: blank
-    - tagName: CXO Cross-Functional Engagement Committee
-      url: test.com
-      target: blank
-    - tagName: Global Diversity & Inclusion
-      url: test.com
-      target: blank
-    - tagName: Entrepreneurship
-      url: test.com
-      target: blank
-    - tagName: Information Quality Governance Office
-      url: test.com
-      target: blank
-    - tagName: Legacy of Good
-      url: test.com
-      target: blank
-    - tagName: We've Got This
-      url: test.com
-      target: blank
+    - title: Chief Customer Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Social Intelligence Center
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Net Promoter Score (NPS) Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Executive Sponsor Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: CXO Cross-Functional Engagement Committee
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Diversity & Inclusion
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Entrepreneurship
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Information Quality Governance Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Legacy of Good
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: We've Got This
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Legal
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-legal
+    description: 
+    leveThreeItems:
+    - title: Chief Customer Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Social Intelligence Center
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Net Promoter Score (NPS) Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Executive Sponsor Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: CXO Cross-Functional Engagement Committee
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Diversity & Inclusion
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Entrepreneurship
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Information Quality Governance Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Legacy of Good
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: We've Got This
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Finance
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-finance
+    description: 
+    leveThreeItems:
+    - title: Chief Customer Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Social Intelligence Center
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Net Promoter Score (NPS) Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Executive Sponsor Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: CXO Cross-Functional Engagement Committee
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Diversity & Inclusion
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Entrepreneurship
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Information Quality Governance Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Legacy of Good
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: We've Got This
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  
+  
+  
+  - title: Global Fulfillment, Logistics & Trade
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-global-fulfill
+    description: 
+    leveThreeItems:
+    - title: Chief Customer Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Social Intelligence Center
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Net Promoter Score (NPS) Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Executive Sponsor Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: CXO Cross-Functional Engagement Committee
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Diversity & Inclusion
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Entrepreneurship
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Information Quality Governance Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Legacy of Good
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: We've Got This
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Facilities & EHS
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: org-facilities-ehs
+    description: 
+    leveThreeItems:
+    - title: Chief Customer Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Social Intelligence Center
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Net Promoter Score (NPS) Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Executive Sponsor Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: CXO Cross-Functional Engagement Committee
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Diversity & Inclusion
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Entrepreneurship
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Information Quality Governance Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Legacy of Good
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: We've Got This
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
   Offerings:
-  - tagName: Products
-    url: test.com
-    target: blank
+  - title: Products11
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: dell-offering-products
+    description: 
     leveThreeItems:
-    - tagName: Converged Infrastructure
-      url: test.com
-      target: blank
-    - tagName: Data Protection
-      url: test.com
-      target: blank
-    - tagName: Desktops/All in Ones
-      url: test.com
-      target: blank
-    - tagName: Electronics & Accessories
-      url: test.com
-      target: blank
-    - tagName: Enterprise Infrastucture
-      url: test.com
-      target: blank
-    - tagName: Gateways and Embedded Computing
-      url: test.com
-      target: blank
-    - tagName: Laptops
-      url: test.com
-      target: blank
-    - tagName: Networking
-      url: test.com
-      target: blank
-    - tagName: Ready Solutions
-      url: test.com
-      target: blank
-    - tagName: RSA
-      url: test.com
-      target: blank
-    - tagName: Servers
-      url: test.com
-      target: blank
-    - tagName: Software
-      url: test.com
-      target: blank
-    - tagName: Storage
-      url: test.com
-      target: blank
-    - tagName: Thin Clients
-      url: test.com
-      target: blank
-    - tagName: Virtustream
-      url: test.com
-      target: blank
-    - tagName: Workstations
-      url: test.com
-      target: blank
-  - tagName: Solutions
-    url: test.com
-    target: blank
+    - title: Converged Infrastructure
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Data Protection
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Desktops/All in Ones
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Electronics & Accessories
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Enterprise Infrastucture
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Gateways and Embedded Computing
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Laptops
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Networking
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Ready Solutions
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: RSA
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Servers
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Software
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Storage
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Thin Clients
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Virtustream
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Workstations
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Solutions22
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: dell-offering-solutions
+    description: 
     leveThreeItems:
-    - tagName: Business Solutions
-      url: test.com
-      target: blank
-    - tagName: Financing and Payment
-      url: test.com
-      target: blank
-    - tagName: Industry Solutions
-      url: test.com
-      target: blank
-    - tagName: Infrastructure Solutions
-      url: test.com
-      target: blank
-  - tagName: Services
-    url: test.com
-    target: blank
+    - title: Business Solutions
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Financing and Payment
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Industry Solutions
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Infrastructure Solutions
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Services33
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: dell-offering-services
+    description: 
     leveThreeItems:
-    - tagName: Consulting
-      url: test.com
-      target: blank
-    - tagName: Deployment
-      url: test.com
-      target: blank
-    - tagName: Education
-      url: test.com
-      target: blank
-    - tagName: Managed Services
-      url: test.com
-      target: blank
-    - tagName: Support
-      url: test.com
-      target: blank
-  - tagName: Sales Knowledge Center
-    url: test.com
-    target: blank
+    - title: Consulting
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Deployment
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Education
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Managed Services
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Support
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Sales Knowledge Center44
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: dell-offering-sales
+    description: 
     leveThreeItems:
-    - tagName: Sales Knowledge Center
-      url: test.com
-      target: blank
+    - title: Sales Knowledge Center
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
   toolsAndResourcse:
-  - tagName: Org Chart (Workday)
-    url: test.com
-    target: blank
-  - tagName: Administrative
-    url: test.com
-    target: blank
+  - title: Org Chart (Workday)11
+    url: https://www.myworkday.com/dell/d/task/2998$2673.htmld#opennodes=247%24136400&viewing=247%24136400
+    target: _blank
+    id: 
+    dataPanelTarget: 
+    description: 
+  - title: Administrative22
+    url: 
+    target: 
+    id: 
+    dataPanelTarget: tools-admin
+    description: 
     leveThreeItems:
-    - tagName: Copy / Printing Service
-      url: test.com
-      target: blank
-    - tagName: Global Translation Services
-      url: test.com
-      target: blank
-    - tagName: GlobeSmart
-      url: test.com
-      target: blank
-    - tagName: Staples - Office Supplies
-      url: test.com
-      target: blank
-  - tagName: Engineering
-    url: test.com
-    target: blank
+    - title: Copy / Printing Service
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Translation Services
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: GlobeSmart
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Staples - Office Supplies
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Engineering33
+    url: 
+    target: 
+    id: 
+    dataPanelTarget: tools-engineering
+    description: 
     leveThreeItems:
-    - tagName: Engineering Service Management
-      url: test.com
-      target: blank
-  - tagName: Security
-    url: test.com
-    target: blank
+    - title: Engineering Service Management
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Securlty44
+    url: 
+    target: 
+    id: 
+    dataPanelTarget: tools-security
+    description: 
     leveThreeItems:
-    - tagName: Security and Resiliency Office
-      url: test.com
-      target: blank
-    - tagName: Product & Application Security
-      url: test.com
-      target: blank
-    - tagName: Report Suspicious Emails
-      url: test.com
-      target: blank
-    - tagName: Security Awareness and Training
-      url: test.com
-      target: blank
-    - tagName: Secure Workplace
-      url: test.com
-      target: blank
-  - tagName: Marketing
-    url: test.com
-    target: blank
+    - title: Securlty and Resiliency Office
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Product & Application Securlty
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Report Suspicious Emails
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Securlty Awareness and Training
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Secure Workplace
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Marketing55
+    url: 
+    target: 
+    id: 
+    dataPanelTarget: tools-marketing
+    description: 
     leveThreeItems:
-    - tagName: Digital Experience Program
-      url: test.com
-      target: blank
-    - tagName: Dell Digital Asset Management (DAM)
-      url: test.com
-      target: blank
-    - tagName: Brand Templates & Guidelines
-      url: test.com
-      target: blank
-    - tagName: Corporate Events
-      url: test.com
-      target: blank
-    - tagName: My Places
-      url: test.com
-      target: blank
-    - tagName: Presales Channel
-      url: test.com
-      target: blank
-    - tagName: Marketing Playbooks
-      url: test.com
-      target: blank
-    - tagName: Messaging
-      url: test.com
-      target: blank
-  - tagName: Sales
-    url: test.com
-    target: blank
+    - title: Digital Experience Program
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Dell Digital Asset Management (DAM)
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Brand Templates & Guidelines
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Corporate Events
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: My Places
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Presales Channel
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Marketing Playbooks
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Messaging
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Sales66
+    url: 
+    target: 
+    id: 
+    dataPanelTarget: tools-sales
+    description: 
     leveThreeItems:
-    - tagName: Sales Planning
-      url: test.com
-      target: blank
-    - tagName: KLUE - Competititve Intelligence
-      url: test.com
-      target: blank
-    - tagName: Customer Reference Group
-      url: test.com
-      target: blank
-    - tagName: Customer Reporting Solutions (FIRST)
-      url: test.com
-      target: blank
-    - tagName: Customer Solution Centers
-      url: test.com
-      target: blank
-    - tagName: Demo Center
-      url: test.com
-      target: blank
-    - tagName: Dell Financial Services (DFS)
-      url: test.com
-      target: blank
-    - tagName: Executive Briefing Center
-      url: test.com
-      target: blank
-    - tagName: Global Customer Programs
-      url: test.com
-      target: blank
-    - tagName: Help a Rep
-      url: test.com
-      target: blank
-    - tagName: MAP Sales Portal (EMEA Sales)
-      url: test.com
-      target: blank
-    - tagName: North America & G500 Sales Central
-      url: test.com
-      target: blank
-    - tagName: NEW! Order Management Systems Portal
-      url: test.com
-      target: blank
-    - tagName: Purchase ID Lookup Tool
-      url: test.com
-      target: blank
-    - tagName: SmartPrice
-      url: test.com
-      target: blank
-    - tagName: Software & Peripherals Harmony Tool
-      url: test.com
-      target: blank
-    - tagName: Sales Portal and Knowledge Center
-      url: test.com
-      target: blank
-    - tagName: Presales Shared Services
-      url: test.com
-      target: blank
-    - tagName: RMA Process
-      url: test.com
-      target: blank
-    - tagName: Sales News
-      url: test.com
-      target: blank
-  - tagName: Travel & Expense
-    url: test.com
-    target: blank
+    - title: Sales Planning
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: KLUE - Competititve Intelligence
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Customer Reference Group
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Customer Reporting Solutions (FIRST)
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Customer Solution Centers
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Demo Center
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Dell Financial Services (DFS)
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Executive Briefing Center
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Customer Programs
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Help a Rep
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: MAP Sales Portal (EMEA Sales)
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: North America & G500 Sales Central
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: NEW! Order Management Systems Portal
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Purchase ID Lookup Tool
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: SmartPrice
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Software & Peripherals Harmony Tool
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Sales Portal and Knowledge Center
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Presales Shared Services
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: RMA Process
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Sales News
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Travel & Expense77
+    url: 
+    target: 
+    id: 
+    dataPanelTarget: tools-travels
+    description: 
     leveThreeItems:
-    - tagName: Concur
-      url: test.com
-      target: blank
-    - tagName: Global Travel & Expense
-      url: test.com
-      target: blank
-  - tagName: Dell Culture
-    url: test.com
-    target: blank
+    - title: Concur
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Global Travel & Expense
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+  - title: Dell Culture88
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: tools-culture
+    description: 
     leveThreeItems:
-    - tagName: Inspire Recognitions
-      url: test.com
-      target: blank
-    - tagName: Help a Customer
-      url: test.com
-      target: blank
-    - tagName: Legacy of Good
-      url: test.com
-      target: blank
-    - tagName: Talent & Culture
-      url: test.com
-      target: blank
+    - title: Inspire Recognitions
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Help a Customer
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Legacy of Good
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+    - title: Talent & Culture
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: 
