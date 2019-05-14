@@ -2,7 +2,7 @@
 ---
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: News11
+  - title: News
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
@@ -82,7 +82,7 @@ inside-dell-navigation-menu-service:
     dataPanelTarget: 
     description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
   myCommunities:
-  - title: Dashboard111
+  - title: Dashboard
     url: 
     target: 
     id: HomeNews
