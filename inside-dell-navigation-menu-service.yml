@@ -943,7 +943,20 @@ inside-dell-navigation-menu-service:
       target: 
       id: HomeNews
       dataPanelTarget: myNews
-      description: none    
+      description: none 
+  - title: Dell offerings
+    url: 
+    target: 
+    id: HomeNews
+    dataPanelTarget: dell-offering-sales11
+    description: 
+    leveThreeItems:
+    - title: dell offerings link l3
+      url: 
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none 
   toolsAndResourcse:
   - title: Org Chart (Workday)11
     url: https://www.myworkday.com/dell/d/task/2998$2673.htmld#opennodes=247%24136400&viewing=247%24136400
