@@ -943,19 +943,6 @@ inside-dell-navigation-menu-service:
       target: 
       id: HomeNews
       dataPanelTarget: myNews
-      description: none
-  - title: Sales Knowledge Center55
-    url: 
-    target: 
-    id: HomeNews
-    dataPanelTarget: dell-offering-sales111
-    description: 
-    leveThreeItems:
-    - title: Sales Knowledge Center55
-      url: 
-      target: 
-      id: HomeNews
-      dataPanelTarget: myNews
       description: none    
   toolsAndResourcse:
   - title: Org Chart (Workday)11
