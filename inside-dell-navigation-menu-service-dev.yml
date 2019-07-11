@@ -2,7 +2,7 @@
 ---
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: News_pcf_working
+  - title: News_pcf_not_working
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
