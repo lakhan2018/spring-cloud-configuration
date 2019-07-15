@@ -1,62 +1,62 @@
 ---
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: News_default
+  - title: News_Dev
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
     dataPanelTarget: myNews
     description: 
-    data-metrics: nav|News
+    dataMetrics: nav|News
   - title: My Communities
     url: 
     target: 
     id: globalnav-overlay-menu-tab-mycommunities
     dataPanelTarget: myCommunities
     description: 
-    data-metrics: nav|MyCommunities
+    dataMetrics: nav|MyCommunities
   - title: My HR
     url: 
     target: 
     id: globalnav-overlay-menu-tab-myHR
     dataPanelTarget: myHR
     description: 
-    data-metrics: nav|MyHR
+    dataMetrics: nav|MyHR
   - title: My IT
     url: 
     target: 
     id: globalnav-overlay-menu-tab-myIT
     dataPanelTarget: myIT
     description: 
-    data-metrics: nav|MyIT
+    dataMetrics: nav|MyIT
   - title: Learning
     url: 
     target: 
     id: globalnav-overlay-menu-tab-learning
     dataPanelTarget: learning
     description: 
-    data-metrics: nav|Learning
+    dataMetrics: nav|Learning
   - title: Organizations
     url: 
     target: 
     id: globalnav-overlay-menu-tab-org
     dataPanelTarget: organization
     description:
-    data-metrics:    
+    dataMetrics:    
   - title: Offerings
     url: 
     target: 
     id: globalnav-overlay-menu-tab-delloffering
     dataPanelTarget: delloffering
     description: 
-    data-metrics:  
+    dataMetrics:  
   - title: Tools & Resources
     url: 
     target: 
     id: globalnav-overlay-menu-tab-tools
     dataPanelTarget: toolsresource
     description: 
-    data-metrics:  
+    dataMetrics:  
   news:
   - title: Headline News
     url: /news
@@ -64,35 +64,35 @@ inside-dell-navigation-menu-service:
     id: HomeNews
     dataPanelTarget: 
     description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
-    data-metrics: nav|News|HeadlineNews
+    dataMetrics: nav|News|HeadlineNews
   - title: News Inside Dell
     url: /community/active/employee_communications_community
     target: 
     id: HomeNews
     dataPanelTarget: 
     description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
-    data-metrics: nav|News|NewsInsideDell
+    dataMetrics: nav|News|NewsInsideDell
   - title: One Dell Way
     url: /community/active/employee_communications_community/one-dell-way
     target: 
     id: HomeNews
     dataPanelTarget: 
     description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
-    data-metrics: nav|News|OneDellWay
+    dataMetrics: nav|News|OneDellWay
   - title: Dell Quarterly Review
     url: /community/active/employee_communications_community/dell-quarterly-review
     target: 
     id: HomeNews
     dataPanelTarget: 
     description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
-    data-metrics: nav|News|DellQuarterlyReview
+    dataMetrics: nav|News|DellQuarterlyReview
   - title: Dell Technologies Story
     url: /community/active/the-dell-technologies-story
     target: 
     id: HomeNews
     dataPanelTarget: 
     description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
-    data-metrics: nav|News|DellTechnologiesStory
+    dataMetrics: nav|News|DellTechnologiesStory
   myCommunities:
   - title: Dashboard111
     url: /community/mycommunities
@@ -100,35 +100,35 @@ inside-dell-navigation-menu-service:
     id: HomeNews
     dataPanelTarget: 
     description: Access the sites or content you own and the people you follow My Communities.
-    data-metrics: nav|MyCommunities|Dashboard
+    dataMetrics: nav|MyCommunities|Dashboard
   - title: My Profile
     url: /people/user_id
     target: 
     id: HomeNews
     dataPanelTarget: 
     description: Access your profile on My Communities to update your avatar and information. 
-    data-metrics: nav|MyCommunities|MyProfile
+    dataMetrics: nav|MyCommunities|MyProfile
   - title: Getting Started111
     url: /community/active/inside-dell/pages/new-user-central
     target: 
     id: HomeNews
     dataPanelTarget: 
     description: Visit the Help and Enablement Center to learn how to use Inside Dell Technologies.
-    data-metrics: nav|MyCommunities|GettingStarted
+    dataMetrics: nav|MyCommunities|GettingStarted
   - title: Rquest a Community
     url: /docs/DOC-228967
     target: 
     id: HomeNews
     dataPanelTarget: 
     description: Submit a request to own or redesign a site on My Communities
-    data-metrics: nav|MyCommunities|RequestaCommunity
+    dataMetrics: nav|MyCommunities|RequestaCommunity
   - title: Change Request
     url: https://dell.service-now.com/sp?id=sc_cat_item&amp;sys_id=07cb24dedb9f9f4087e99ac5db961948
     target: 
     id: HomeNews
     dataPanelTarget: 
     description: Request to change a url, move a site, or add a link to the navigation.
-    data-metrics: nav|MyCommunities|ChangeRequest
+    dataMetrics: nav|MyCommunities|ChangeRequest
   myHr:
   - title: My HR Portal
     url: https://dell.service-now.com/hrportal
@@ -136,35 +136,35 @@ inside-dell-navigation-menu-service:
     id: HomeNews
     dataPanelTarget: myNews
     description: Your access to all HR resources, tools, solutions and services.
-    data-metrics: nav|MyHR|MyHRPortal
+    dataMetrics: nav|MyHR|MyHRPortal
   - title: People Philosophy
     url: https://myhr.one.dell.com/Global/PP/Pages/default.aspx
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: Learn how Dell can help you fulfill your potential and then, expand it.
-    data-metrics: nav|MyHR|PeoplePhilosophy
+    dataMetrics: nav|MyHR|PeoplePhilosophy
   - title: My HR Profile
     url: https://www.myworkday.com/dell/d/home.htmld
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: View and update your personal and work information.
-    data-metrics: nav|MyHR|MyHRProfile
+    dataMetrics: nav|MyHR|MyHRProfile
   - title: Access Tools
     url: https://dell.service-now.com/hrportal?id=hrspng_tools&amp;lnk_cat=HPH180&amp;srv_cat=971de302dbfa3680ae487eb6bf961961
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: Get quick access to the tool you are looking for.
-    data-metrics: nav|MyHR|AccessTools
+    dataMetrics: nav|MyHR|AccessTools
   - title: Leader Resources
     url: https://dell.service-now.com/hrportal?id=hrspng_category&amp;lnk_cat=HPH170&amp;srv_cat=7304c06ddbfdf2404068f236bf96199e
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: Access to the HR tools and resources that will help you manage your team
-    data-metrics: nav|MyHR|LeaderResources
+    dataMetrics: nav|MyHR|LeaderResources
   myIt:
   - title: My IT Portal
     url: http://dell.service-now.com/sp
@@ -172,35 +172,35 @@ inside-dell-navigation-menu-service:
     id: HomeNews
     dataPanelTarget: myNews
     description: The home for IT and resources for team members
-    data-metrics: nav|MyIT|MyITPortal
+    dataMetrics: nav|MyIT|MyITPortal
   - title: Chat with IT
     url: https://dell.service-now.com/sp?id=chat_sp
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: Got a quick question? Get a quick answer.
-    data-metrics: nav|MyIT|ChatwithIT
+    dataMetrics: nav|MyIT|ChatwithIT
   - title: Order Something
     url: https://dell.service-now.com/sp?id=selfhelp&amp;tab=sc
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: Browse the catalog for services and items you need.
-    data-metrics: nav|MyIT|OrderSomething
+    dataMetrics: nav|MyIT|OrderSomething
   - title: Get Self-Help
     url: https://dell.service-now.com/sp?id=selfhelp&amp;tab=kb
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: Browse and search for helpful knowledge articles.
-    data-metrics: nav|MyIT|GetSelfHelp
+    dataMetrics: nav|MyIT|GetSelfHelp
   - title: Create a Ticket
     url: https://dell.service-now.com/sp?id=incident_sp2&amp;instance=guided_help
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: Contact support to make a request, or report a problem.
-    data-metrics: nav|MyIT|CreateaTicket
+    dataMetrics: nav|MyIT|CreateaTicket
   learning:
   - title: The Learning Studio
     url: https://learningstudio.dell.com/
@@ -208,35 +208,35 @@ inside-dell-navigation-menu-service:
     id: HomeNews
     dataPanelTarget: myNews
     description: Personalized and social learning experience that connects you to resource you can use to be successful.
-    data-metrics: nav|Learning|TheLearningStudio
+    dataMetrics: nav|Learning|TheLearningStudio
   - title: Dell Technologies Sales University
     url: /community/active/dell-technologies-sales-university
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: A flexible sales learning experience with rich, dynamic content and personalized learning plan to help you grow your career
-    data-metrics: nav|Learning|DellTechnologiesSalesUniversity
+    dataMetrics: nav|Learning|DellTechnologiesSalesUniversity
   - title: Dell EMC Education & Training
     url: https://edu.corp.emc.com/default_int.aspx
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: Dell EMC role-based training hub designed to accelerate your technical & professional learning experience.
-    data-metrics: nav|Learning|DellTechnologiesEducationServices
+    dataMetrics: nav|Learning|DellTechnologiesEducationServices
   - title: Educate Dell
     url: http://prm.dell.com/
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: A comprehensive product & training resources tool.
-    data-metrics: nav|Learning|EducateDell
+    dataMetrics: nav|Learning|EducateDell
   - title: Product & Operations Academies
     url: http://pandoacademies.com
     target: 
     id: HomeNews
     dataPanelTarget: myNews
     description: Leader defined individualized learning plans that enable strategic business capabilities.
-    data-metrics: nav|Learning|Product&amp;OperationsAcademies
+    dataMetrics: nav|Learning|Product&amp;OperationsAcademies
   organizations:
   - title: Org Chart-test
     url: https://www.myworkday.com/dell/d/task/2998$2673.htmld#opennodes=247%24136400&amp;viewing=247%24136400
@@ -244,14 +244,14 @@ inside-dell-navigation-menu-service:
     id: HomeNews
     dataPanelTarget: 
     description: 
-    data-metrics:
+    dataMetrics:
   - title: Marketing
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: org-marketing
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Global Marketing
       url: /community/active/emc_marketing
@@ -259,63 +259,63 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Communications
       url: /community/active/emc_marketing/global_communications
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Digital Marketing
       url: /community/active/global_marketing/corporate_marketing/global_digital_marketing
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Events, Brand and Creative
       url: /community/active/emc_marketing/brand
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Field and Partner Marketing
       url: /community/active/global_marketing/ww_field_marketing
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global ISG Campaign and Program
       url: /community/active/emc_marketing/campaignmgmt
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Strategy & Operations
       url: /community/active/po
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Corporate Messaging
       url: /community/active/messaging
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Spokesperson Central
       url: /groups/dell-spokespeople
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Marketing Talent Development
       url: /community/active/global-marketing/marketing-talent-development
       target: 
@@ -328,14 +328,14 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Sales Operations
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: org-sales-op
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Global Sales Community
       url: /community/active/sales-news
@@ -343,28 +343,28 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Business Operations
       url: /community/active/global-business-operations
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Sales Compensation
       url: /community/active/global-business-operations/global-sales-compensation
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics: 
+      dataMetrics: 
   - title: Client Solutions - Sales
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: org-client-sol
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Sales Communications
       url: /groups/client-solutions-sales-communications/overview
@@ -372,21 +372,21 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: North America Commercial Sales
       url: /community/active/sales-news/north-america-commercial-sales
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Global Enterprise Sales
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: org-global-enterprise
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: NA Enteprise Sales
       url: /community/active/sales-news/americas-sales
@@ -394,49 +394,49 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: EMEA Sales Community
       url: /community/active/sales-news/emea-sales
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: APJ Sales Community
       url: /community/active/sales-news/apj-sales
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Dell EMC Services
       url: /community/active/global_services
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Presales Channel
       url: /community/active/presales_channel
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Alliances
       url: /community/active/global-alliances
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: OEM Solutions
       url: /community/active/oem_team
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics: 
+      dataMetrics: 
     - title: Dell EMC Consulting Services
       url: /community/active/dell-emc-consulting-services
       target: 
@@ -449,7 +449,7 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Services
     url: 
     target: 
@@ -463,42 +463,42 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Consulting
       url: /community/categories/consulting
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Deployment
       url: /community/categories/deployment
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Education
       url: /community/categories/education
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Managed Services
       url: /community/categories/managed-services
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Support
       url: /community/categories/support
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Chief Customer Office
     url: 
     target: 
@@ -512,70 +512,70 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Social Intelligence Center
       url: /community/active/social-intelligence-center
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Net Promoter Score (NPS) Program
       url: /community/active/customer-nps
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Executive Sponsor Program
       url: /community/active/executive-sponsor-program
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: CXO Cross-Functional Engagement Committee
       url: /community/active/executive-sponsor-program
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Diversity & Inclusion
       url: /community/active/diversity
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Entrepreneurship
       url: /community/active/entrepreneurship
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Information Quality Governance Office
       url: /community/active/data_quality_and_data_governance
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Legacy of Good
       url: /community/active/legacy-of-good
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: We've Got This
       url: /community/active/weve-got-this
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Chief Customer Office
     url: 
     target: 
@@ -589,77 +589,77 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Social Intelligence Center
       url: /community/active/social-intelligence-center
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Net Promoter Score (NPS) Program
       url: /community/active/customer-nps
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Executive Sponsor Program
       url: /community/active/executive-sponsor-program
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: CXO Cross-Functional Engagement Committee
       url: /community/active/executive-sponsor-program
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Diversity & Inclusion
       url: /community/active/diversity
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Entrepreneurship
       url: /community/active/entrepreneurship
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Information Quality Governance Office
       url: /community/active/data_quality_and_data_governance
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Legacy of Good
       url: /community/active/legacy-of-good
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: We've Got This
       url: /community/active/weve-got-this
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Finance
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: org-finance
     description:
-    data-metrics:    
+    dataMetrics:    
     leveThreeItems:
     - title: CFO Organization (Global Finance) 
       url: http://intranet.dell.com/dept/finance/pages/home.aspx
@@ -667,42 +667,42 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Info Solutions (GIS - DDW) 
       url: http://intranet.dell.com/finance/gis
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: ONE - Organization for Networking and Engagement
       url: http://intranet.dell.com/dept/finance/pages/diversity/overview.aspx
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Revenue Operations
       url: /groups/global-revenue-operations
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: LIFT Finance
       url: /community/active/finance
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Risk Management &amp; Insurance 
       url: /community/active/riskmanagement
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
       
       
   - title: Products and Operations
@@ -711,7 +711,7 @@ inside-dell-navigation-menu-service:
     id: HomeNews
     dataPanelTarget: org-global-fulfill
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Products &amp; Operations Home
       url: /community/active/po
@@ -719,91 +719,91 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Business Transformation
       url: /community/active/po/business-transformation
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Chief Technology Office
       url: /community/active/octo-gpe-business-operations
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Process Tool and Governance
       url: /community/active/general-procurement/process-tools-and-governance
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Indirect Procurement
       url: /community/active/general-procurement/indirect-procurement
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Shared Services
       url: /community/active/general-procurement/global-shared-services
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Center of Excellence
       url: /community/active/general-procurement/center-of-excellence
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Networking &amp; Solutions
       url: /groups/networking-solutions
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Storage
       url: /groups/storage
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Trade Compliance
       url: /community/active/global-trade-network
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Trade Compliance - Start Strong
       url: /groups/start-strong
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Japan Trade Compliance
       url: https://salesoperations.one.dell.com/sites/Japan_Trade_Compliance/_layouts/15/start.aspx#/SitePages/Home.aspx
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Facilities and EHS
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: org-facilities-ehs
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Facilities &amp; EHS Website
       url: /community/active/global-facilities
@@ -811,28 +811,28 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Environment, Health &amp; Safety (EHS)
       url: /community/active/global-facilities/ehs
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Faclilities Services
       url: /docs/DOC-314184
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Workplace Innovation
       url: /community/active/workplace-innovation
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
    
   Offerings:
   - title: Products
@@ -841,7 +841,7 @@ inside-dell-navigation-menu-service:
     id: HomeNews
     dataPanelTarget: dell-offering-products
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Converged Infrastructure
       url: /community/categories/converged-infrastructure
@@ -849,119 +849,119 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Data Protection
       url: /community/categories/data-protection
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Desktops/All in Ones
       url: https://www.dellemc.com/resources/en-us/auth/products/desktops-and-all-in-ones/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Electronics & Accessories
       url: https://www.dellemc.com/resources/en-us/auth/products/electronics-and-accessories/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Enterprise Infrastucture
       url: /community/categories/enterprise-infrastructure
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Gateways and Embedded Computing
       url: https://www.dellemc.com/resources/en-us/auth/products/gateways-and-embedded-computing/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Laptops
       url: https://www.dellemc.com/resources/en-us/auth/products/laptops/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Networking
       url: https://www.dellemc.com/resources/en-us/auth/products/networking/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Ready Solutions
       url: https://www.dellemc.com/resources/en-us/auth/products/ready-solutions/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: RSA
       url: /docs/DOC-329776
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Servers
       url: https://www.dellemc.com/resources/en-us/auth/products/servers/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Software
       url: https://www.dellemc.com/resources/en-us/auth/products/software/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Storage
       url: /community/categories/storage
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Thin Clients
       url: https://www.dellemc.com/resources/en-us/auth/products/thin-clients/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Virtustream
       url: /community/categories/virtustream
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Workstations
       url: https://www.dellemc.com/resources/en-us/auth/products/workstations/category.htm
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Solutions
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: dell-offering-solutions
     description:
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Business Solutions
       url: https://www.dellemc.com/resources/en-us/auth/solutions/business-solutions/category.htm
@@ -969,42 +969,42 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Financing and Payment
       url: /community/categories/financing-and-payment-solutions
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Industry Solutions
       url: /community/categories/industry-solutions
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Infrastructure Solutions
       url: /community/categories/infrastructure-solutions
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Alliance Solutions
       url: https://www.dellemc.com/resources/en-us/auth/solutions/global-alliance-solutions/category.htm
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Services
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: dell-offering-services
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Consulting
       url: /community/categories/consulting
@@ -1012,42 +1012,42 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Deployment
       url: /community/categories/deployment
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Education
       url: /community/categories/education
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Managed Services
       url: /community/categories/managed-services
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Support
       url: /community/categories/support
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Sales Knowledge Center
     url: http://sales.inside.dell
     target: _blank
     id: HomeNews
     dataPanelTarget: dell-offering-sales
     description: 
-    data-metrics:
+    dataMetrics:
 
   toolsAndResourcse:
   - title: Org Chart (Workday)
@@ -1056,14 +1056,14 @@ inside-dell-navigation-menu-service:
     id: 
     dataPanelTarget: 
     description: 
-    data-metrics:
+    dataMetrics:
   - title: Administrative
     url: 
     target: 
     id: 
     dataPanelTarget: tools-admin
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Copy / Printing Service
       url: http://intranet.dell.com/facilities/global/Pages/global/print_copy_service_us.htm
@@ -1071,35 +1071,35 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Translation Services
       url: /community/active/gplm/globalization/overview
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: GlobeSmart
       url: https://pf.us.dell.com/idp/startSSO.ping?PartnerSpId=https://learning.aperianglobal.com
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Staples - Office Supplies
       url: http://www.staplesadvantage.com/dell
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Engineering
     url: 
     target: 
     id: 
     dataPanelTarget: tools-engineering
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Engineering Service Management
       url: https://emcesm.service-now.com/ieo
@@ -1107,14 +1107,14 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Security
     url: 
     target: 
     id: 
     dataPanelTarget: tools-security
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Securlty and Resiliency Office
       url: /community/active/security-and-resiliency-office
@@ -1122,42 +1122,42 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Product & Application Securlty
       url: /community/active/product-and-application-security
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Report Suspicious Emails
       url: /docs/DOC-325241
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Securlty Awareness and Training
       url: /community/active/security-and-resiliency-office/security-awareness-and-training
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Secure Workplace
       url: /groups/secure-workplace
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Marketing
     url: 
     target: 
     id: 
     dataPanelTarget: tools-marketing
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Digital Experience Program
       url: /community/active/digital-experience-program
@@ -1165,49 +1165,49 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Dell Digital Asset Management (DAM)
       url: https://dam.dell.com/content/login/assetshare.html
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Brand Templates & Guidelines
       url: /community/active/emc_marketing/brand_experience/brand
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Corporate Events
       url: /community/active/emc_marketing/brand_experience/global_event_experience
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Marketing Playbooks
       url: https://www.emc.com/auth/marketing-playbooks/index.htm
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Messaging
       url: /community/active/messaging
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Sales
     url: 
     target: 
     id: 
     dataPanelTarget: tools-sales
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Sales Planning
       url: https://www.dellemc.com/sales/en-us/auth/go-to-market-planning/go-to-market-tools.htm
@@ -1215,147 +1215,147 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: KLUE - Competititve Intelligence
       url: https://app.klue.com/account/auth/saml/b46aae8a-8e88-40c8-b12b-a5340403a9c0
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Customer Reference Group
       url: /community/active/customer_reference_group
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Customer Reporting Solutions (FIRST)
       url: http://crs.us.dell.com/first/UI%20layer/default.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Customer Solution Centers
       url: /community/active/presales-channel/customer-solution-centers
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Demo Center
       url: https://democenter.dell.com
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Dell Financial Services (DFS)
       url: http://intranet.dell.com/dfs/home/default.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Executive Briefing Center
       url: /community/active/executive_briefing_program
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Customer Programs
       url: http://intranet.dell.com/dept/gcp/Pages/default.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Help a Rep
       url: http://intranet.dell.com/dept/TandTOpt/HaR/SitePages/Home.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: MAP Sales Portal (EMEA Sales)
       url: http://map.emea.dell.com/
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: North America & G500 Sales Central
       url: http://saleslounge.dell.com/americas/csmb-smb/SitePages/NA_G500SalesCentral.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: NEW! Order Management Systems Portal
       url: https://sales.one.dell.com/sites/OMSrequest/SitePages/home.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Purchase ID Lookup Tool
       url: http://auspwbraziloep1.aus.amer.dell.com/dpidlookup/index.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: SmartPrice
       url: /community/active/smartprice
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Software & Peripherals Harmony Tool
       url: http://harmony.us.dell.com/salestool
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Sales Portal and Knowledge Center
       url: https://sales.inside.dell/
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Presales Shared Services
       url: /community/active/presales-shared-services
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: RMA Process
       url: /community/active/e2e-horizon/the-rma-process
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Sales News
       url: /community/active/sales-news
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Travel & Expense
     url: 
     target: 
     id: 
     dataPanelTarget: tools-travels
     description:
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Concur
       url: https://pf.us.dell.com/idp/startSSO.ping?PartnerSpId=p0046014fgcd
@@ -1363,28 +1363,28 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Travel & Expense
       url: /community/active/travel
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Global Purchasing Card (P-Card)
       url: /community/active/p-card-program
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
   - title: Dell Culture
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: tools-culture
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Inspire Recognitions
       url: https://www.globoforce.net/microsites/t/home?client=dell&amp;setCAG=true
@@ -1392,35 +1392,35 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Help a Customer
       url: http://intranet.dell.com/marketing/csmb/SitePages/Landing%20page%20HAC.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Legacy of Good
       url: /community/active/legacy-of-good
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Talent & Culture
       url: /community/active/hr-talent-and-culture
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: 
-      data-metrics:
+      dataMetrics:
   - title: Legal
     url: 
     target: 
     id: HomeNews
     dataPanelTarget: tools-legal
     description: 
-    data-metrics:
+    dataMetrics:
     leveThreeItems:
     - title: Legal4U
       url: https://legal.one.dell.com/sites/Legal4Clients/Pages/Legal4U.aspx
@@ -1428,39 +1428,39 @@ inside-dell-navigation-menu-service:
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Code of Conduct
       url: https://legal.one.dell.com/sites/Legal4Clients/EnC/Pages/CodeOfConduct.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Open Source Guidelines
       url: https://legal.one.dell.com/sites/Legal4Clients/Patents/OSP/SitePages/Open%20Source%20Policy%20Home.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: NDA Resources
       url: https://legal.one.dell.com/sites/Legal4Clients/NDAs/Pages/default.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: Anaqua Inventor Portal
       url: https://legal.one.dell.com/sites/Legal4Clients/Patents/SitePages/Anaqua.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
     - title: BluePrint - Corporate Entity Management
       url: https://legal.one.dell.com/sites/Legal4Clients/Corporate/Pages/CorporateEntity.aspx
       target: _blank
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      data-metrics:
+      dataMetrics:
