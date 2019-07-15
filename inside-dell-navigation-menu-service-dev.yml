@@ -7,35 +7,35 @@ inside-dell-navigation-menu-service:
     id: globalnav-overlay-menu-tab-news
     dataPanelTarget: myNews
     description: 
-    dataMetrics: '{'btnname':'nav|News'}'
+    dataMetrics: nav|News
   - title: My Communities
     url: 
     target: 
     id: globalnav-overlay-menu-tab-mycommunities
     dataPanelTarget: myCommunities
     description: 
-    dataMetrics: '{'btnname':'nav|MyCommunities'}'
+    dataMetrics: nav|MyCommunities
   - title: My HR
     url: 
     target: 
     id: globalnav-overlay-menu-tab-myHR
     dataPanelTarget: myHR
     description: 
-    dataMetrics: '{'btnname':'nav|MyHR'}'
+    dataMetrics: nav|MyHR
   - title: My IT
     url: 
     target: 
     id: globalnav-overlay-menu-tab-myIT
     dataPanelTarget: myIT
     description: 
-    dataMetrics: '{'btnname':'nav|MyIT'}'
+    dataMetrics: nav|MyIT
   - title: Learning
     url: 
     target: 
     id: globalnav-overlay-menu-tab-learning
     dataPanelTarget: learning
     description: 
-    dataMetrics: '{'btnname':'nav|Learning'}'
+    dataMetrics: nav|Learning
   - title: Organizations
     url: 
     target: 
