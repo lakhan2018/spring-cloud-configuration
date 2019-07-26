@@ -1,7 +1,7 @@
 ---
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: News_default
+  - title: News_default_keep
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
