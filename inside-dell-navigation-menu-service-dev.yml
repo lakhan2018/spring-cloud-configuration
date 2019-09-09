@@ -1,6 +1,6 @@
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: News_Dev
+  - title: News_Dev_test
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
