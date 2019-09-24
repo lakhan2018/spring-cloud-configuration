@@ -1,21 +1,21 @@
 ---
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: News_testing
+  - title: News_11
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
     dataPanelTarget: myNews
     description: 
     dataMetrics: nav|News
-  - title: My Communities
+  - title: My Communities_11
     url: 
     target: 
     id: globalnav-overlay-menu-tab-mycommunities
     dataPanelTarget: myCommunities
     description: 
     dataMetrics: nav|MyCommunities
-  - title: My HR
+  - title: My HR_11
     url: 
     target: 
     id: globalnav-overlay-menu-tab-myHR
@@ -58,7 +58,7 @@ inside-dell-navigation-menu-service:
     description: 
     dataMetrics:  
   news:
-  - title: Headline News_tested
+  - title: Headline News
     url: /news
     target: 
     id: HomeNews
