@@ -1,21 +1,21 @@
 ---
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: News_11
+  - title: News
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
     dataPanelTarget: myNews
     description: 
     dataMetrics: nav|News
-  - title: My Communities_11
+  - title: My Communities
     url: 
     target: 
     id: globalnav-overlay-menu-tab-mycommunities
     dataPanelTarget: myCommunities
     description: 
     dataMetrics: nav|MyCommunities
-  - title: My HR_11
+  - title: My HR
     url: 
     target: 
     id: globalnav-overlay-menu-tab-myHR
@@ -94,7 +94,7 @@ inside-dell-navigation-menu-service:
     description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
     dataMetrics: nav|News|DellTechnologiesStory
   myCommunities:
-  - title: Dashboard111
+  - title: Dashboard
     url: /community/mycommunities
     target: 
     id: HomeNews
@@ -108,7 +108,7 @@ inside-dell-navigation-menu-service:
     dataPanelTarget: 
     description: Access your profile on My Communities to update your avatar and information. 
     dataMetrics: nav|MyCommunities|MyProfile
-  - title: Getting Started111
+  - title: Getting Started
     url: /community/active/inside-dell/pages/new-user-central
     target: 
     id: HomeNews
