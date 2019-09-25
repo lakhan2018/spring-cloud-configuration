@@ -1,14 +1,14 @@
 ---
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: Dell News
+  - title: My News
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
     dataPanelTarget: myNews
     description: 
     dataMetrics: nav|News
-  - title: My Communities
+  - title: My Communities11
     url: 
     target: 
     id: globalnav-overlay-menu-tab-mycommunities
@@ -94,7 +94,7 @@ inside-dell-navigation-menu-service:
     description: Get your internal daily news updates on everything happening across Dell up-to-the-minute.
     dataMetrics: nav|News|DellTechnologiesStory
   myCommunities:
-  - title: Dashboard
+  - title: Dashboard-33
     url: /community/mycommunities
     target: 
     id: HomeNews
@@ -130,7 +130,7 @@ inside-dell-navigation-menu-service:
     description: Request to change a url, move a site, or add a link to the navigation.
     dataMetrics: nav|MyCommunities|ChangeRequest
   myHr:
-  - title: My HR Portal
+  - title: My HR Portal -333
     url: https://dell.service-now.com/hrportal
     target: 
     id: HomeNews
@@ -360,6 +360,13 @@ inside-dell-navigation-menu-service:
       dataMetrics:
     - title: Performance Review
       url: /community/active/global-business-operations/performance-review
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+      dataMetrics: 
+    - title: Workday Integration
+      url: /community/active/global-business-operations/workday-integration
       target: 
       id: HomeNews
       dataPanelTarget: myNews
