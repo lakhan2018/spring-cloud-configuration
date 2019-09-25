@@ -1,7 +1,7 @@
 ---
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: News
+  - title: Dell News
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
@@ -353,6 +353,13 @@ inside-dell-navigation-menu-service:
       dataMetrics:
     - title: Global Sales Compensation
       url: /community/active/global-business-operations/global-sales-compensation
+      target: 
+      id: HomeNews
+      dataPanelTarget: myNews
+      description: none
+      dataMetrics:
+    - title: Performance Review
+      url: /community/active/global-business-operations/performance-review
       target: 
       id: HomeNews
       dataPanelTarget: myNews
