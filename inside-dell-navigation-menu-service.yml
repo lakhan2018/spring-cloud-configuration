@@ -1,7 +1,7 @@
 ---
 inside-dell-navigation-menu-service:
   levelOneItems:
-  - title: My News
+  - title: News
     url: 
     target: 
     id: globalnav-overlay-menu-tab-news
@@ -15,7 +15,7 @@ inside-dell-navigation-menu-service:
     dataPanelTarget: myCommunities
     description: 
     dataMetrics: nav|MyCommunities
-  - title: My HR
+  - title: My HR Portal
     url: 
     target: 
     id: globalnav-overlay-menu-tab-myHR
@@ -58,8 +58,8 @@ inside-dell-navigation-menu-service:
     description: 
     dataMetrics:  
   news:
-  - title: Headline News
-    url: /news
+  - title: Dell EMC News
+    url: /del-emc-news
     target: 
     id: HomeNews
     dataPanelTarget: 
@@ -358,15 +358,15 @@ inside-dell-navigation-menu-service:
       dataPanelTarget: myNews
       description: none
       dataMetrics:
-    - title: Performance Review
-      url: /community/active/global-business-operations/performance-review
+    - title: Workday Integration
+      url: /community/active/global-business-operations/workday-integration
       target: 
       id: HomeNews
       dataPanelTarget: myNews
       description: none
-      dataMetrics: 
-    - title: Workday Integration
-      url: /community/active/global-business-operations/workday-integration
+      dataMetrics:
+    - title: Dell EMC R & D Dept
+      url: /community/active/global-business-operations/depat-r-d
       target: 
       id: HomeNews
       dataPanelTarget: myNews
