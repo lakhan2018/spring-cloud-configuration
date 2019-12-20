@@ -8,7 +8,7 @@ inside-dell-navigation-menu-service:
     dataPanelTarget: myNews
     description: 
     dataMetrics: nav|News
-  - title: My Communities11
+  - title: My Communities
     url: 
     target: 
     id: globalnav-overlay-menu-tab-mycommunities
