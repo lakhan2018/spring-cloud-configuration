@@ -15,7 +15,7 @@ inside-dell-navigation-menu-service:
     dataPanelTarget: myCommunities
     description: 
     dataMetrics: nav|MyCommunities
-  - title: My HR Portal
+  - title: My HR
     url: 
     target: 
     id: globalnav-overlay-menu-tab-myHR
